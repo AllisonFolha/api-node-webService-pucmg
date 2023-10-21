@@ -33,6 +33,18 @@ Uma API simples desenvolvida para o Curso de "API e Web Service" utilizando Node
    npm start
    ```
   
-## Desenvolvido por:
+## Exemplos de Solicitações
 
+   ```bash
+    # Exemplo de solicitação GET
+   http://localhost:3000//api/pessoas
+   http://localhost:3000//api/pessoas/:id
+   http://localhost:3000//api/carros
+   http://localhost:3000//api/carros/:id
+   http://localhost:3000//api/animais
+   http://localhost:3000//api/animais/:id
+   ```
+
+
+## Desenvolvido por:
 1473322 - Allison Folha
