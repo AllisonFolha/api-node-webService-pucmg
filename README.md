@@ -30,20 +30,9 @@ Uma API simples desenvolvida para o Curso de "API e Web Service" utilizando Node
 ## Iniciar o servidor
    
    ```bash
-   node serve.js
+   npm start
    ```
   
-## Exemplos de Solicitações
-
-   ```bash
-    # Exemplo de solicitação GET
-    curl -X GET https://localhost:3000/pessoas
-    curl -X GET https://localhost:3000/pessoas/1
-    curl -X GET https://localhost:3000/carros
-    curl -X GET https://localhost:3000/carros/2
-    curl -X GET https://localhost:3000/animais
-    curl -X GET https://localhost:3000/animais/3
-
-
 ## Desenvolvido por:
-- 1473322 - Allison Folha
+
+1473322 - Allison Folha
